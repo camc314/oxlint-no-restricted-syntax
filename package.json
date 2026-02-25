@@ -1,0 +1,15 @@
+{
+    "name": "oxlint-no-restricted-syntax",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "lint": "oxlint"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "oxlint": "^1.50.0"
+    }
+}
