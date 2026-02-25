@@ -10,6 +10,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@oxlint/plugins": "^1.50.0",
+        "eslint": "^10.0.2",
         "oxlint": "^1.50.0"
     }
 }
